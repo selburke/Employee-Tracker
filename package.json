@@ -16,7 +16,7 @@
     "url": "https://github.com/selburke/Employee-Tracker/issues"
   },
   "homepage": "https://github.com/selburke/Employee-Tracker#readme",
-  "dependencies":{
+  "dependencies": {
     "inquirer": "^6.2.1",
     "mysql": "^2.16.0"
   }
