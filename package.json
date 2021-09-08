@@ -1,0 +1,23 @@
+{
+  "name": "employee-tracker",
+  "version": "1.0.0",
+  "description": "Application for building a database of employee information through MySQL",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/selburke/Employee-Tracker.git"
+  },
+  "author": "Selma Burke",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/selburke/Employee-Tracker/issues"
+  },
+  "homepage": "https://github.com/selburke/Employee-Tracker#readme",
+  "dependencies":{
+    "inquirer": "^6.2.1",
+    "mysql": "^2.16.0"
+  }
+}
